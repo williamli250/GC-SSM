@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+torch
+TSB-AD
+packaging
+ninja
+causal-conv1d
+mamba-ssm
